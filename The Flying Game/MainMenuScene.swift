@@ -56,14 +56,6 @@ class MainMenuScene: SKScene{
         startLabel.position = CGPoint(x: self.size.width/2, y: self.size.height * 0.4)
         self.addChild(startLabel)
         
-       
-        
-//        let created = SKSpriteNode(imageNamed: "Created")
-//        created.setScale(1.1)
-//        created.position = CGPoint(x: self.size.width*0.5, y: self.size.height*0.15)
-//        created.zPosition = 2
-//        created.alpha = 1.0
-//        self.addChild(created)
 
     }
     
